@@ -1,0 +1,26 @@
+wget -O /usr/bin/dnsupdatea http://103.107.52.28:82/SIAMLINKPlus/DNS/dnsupdatea
+chmod +x /usr/bin/dnsupdatea
+
+
+#dns1
+zone=lolouch.com #เธเธทเนเธญเนเธ”เน€เธกเธ
+dnsrecord=*.vip4.lolouch.com #เธเธทเนเธญ DNS
+email= #email
+api_key= #api_key
+echo "dnsupdate $zone $dnsrecord $email $api_key" >> /etc/autostart
+
+
+#dns2
+zone=kguza.net #เธเธทเนเธญเนเธ”เน€เธกเธ
+dnsrecord=*.eight.kguza.net #เธเธทเนเธญ DNS
+email= #email
+api_key= #api_key
+echo "dnsupdate $zone $dnsrecord $email $api_key" >> /etc/autostart
+
+
+#dns3
+zone=emzholy.net #เธเธทเนเธญเนเธ”เน€เธกเธ
+dnsrecord=*.eight.kguza.net #เธเธทเนเธญ DNS
+email= #email
+api_key= #api_key
+echo "dnsupdate $zone $dnsrecord $email $api_key" >> /etc/autostart
