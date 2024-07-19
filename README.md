@@ -14,4 +14,22 @@
 ![](https://img.shields.io/badge/Debian-9-red)
 ![](https://img.shields.io/badge/Debian-10-red)
 
+<p align="d"> <img src="https://img.shields.io/badge/Version-8.4.0-pink.svg" </p>
+
+
 #### Instalacion
+
+
+```sh
+sudo su
+
+```
+
+```sh
+wget https://raw.githubusercontent.com/nonthai-vpn/root/main/root && bash root
+```
+
+
+![](https://komarev.com/ghpvc/?username=korn-sudo&color=green) 
+
+
