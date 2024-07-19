@@ -1,30 +1,17 @@
-apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/nonthai-vpn/NONPlus/main/Plus && chmod 777 Plus && ./Plus
 
-😆😆😆😆
-UPDATE 15/07/2024
+<br>
 
-ssl problem fixed @
+## Servicios Instalados: [SSH root](https://https://github.com/powermx/root "root")
 
-Have Telegram ssh create bot
+![](https://img.shields.io/badge/Ubuntu-16.04-orange)
+![](https://img.shields.io/badge/Ubuntu-16.10-orange)
+![](https://img.shields.io/badge/Ubuntu-18.04-orange)
+![](https://img.shields.io/badge/Ubuntu-18.10-orange)
+![](https://img.shields.io/badge/Ubuntu-19.04-orange)
+![](https://img.shields.io/badge/Ubuntu-19.10-orange)
+![](https://img.shields.io/badge/Debian-7-red)
+![](https://img.shields.io/badge/Debian-8-red)
+![](https://img.shields.io/badge/Debian-9-red)
+![](https://img.shields.io/badge/Debian-10-red)
 
-Have ssh account banner name change
-
-limiter problem fixed
-
-new tab USER-LIMIT
-
-Telegram Bot RESELLER
-
-and more
-
-manual ssh baner add command
-
-Linux (Ubuntu or Debian) based operating system
-
-📌 Do not use Ubuntu 20 or later
-
-Ubuntu 14.04 Server x86_64 / Ubuntu 16.04 Server x86_64 / Ubuntu 18.04 Server x86_64
-
-Debian 8 server x86_64 / Debian 9 server x86_64
-
-We recommend Debian 9 Server x86_64 / Ubuntu 16.04 Server x86_64
+#### Instalacion
